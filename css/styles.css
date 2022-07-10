@@ -417,7 +417,7 @@ header {
 
 .navbar .nav > li > a {
 	display:inline-block;
-	font-family:'Open Sans', serif;
+	/* font-family:'Open Sans', serif; */
   font-size:14px;
   line-height:40px;
 	color:#7a828f;
