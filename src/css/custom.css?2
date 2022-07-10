@@ -1,0 +1,40 @@
+﻿blockquote {
+    font-size: 14px;
+}
+
+.content-block ul {
+    margin-top: 10px;
+}
+
+
+.logo {
+    width: 400px;
+    padding-bottom: 20px;
+}
+
+@media (max-width: 500px) {
+    .logo {
+        width: auto;
+    }
+}
+
+@media (max-width: 991px) {
+    .hide-mobile {
+        display: none;
+    }
+}
+
+h6
+	{
+		font-weight: bold;
+	}
+
+body 
+{
+    color: #62666B;
+}
+
+.navbar .nav > li > a
+{
+    line-height: 53px;
+}
